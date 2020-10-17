@@ -1,2 +1,1 @@
-# Burger-app
-app for eating burgers, yum!
+# burger-handlebars-app
